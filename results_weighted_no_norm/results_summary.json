@@ -1,0 +1,7 @@
+{
+  "validation_rmse": 0.2826018695651876,
+  "evaluation_rmse": 0.28411353264055117,
+  "n_models": 5,
+  "use_weighted_mean": true,
+  "epochs": 10
+}
